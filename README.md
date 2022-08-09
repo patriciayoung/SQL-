@@ -1,5 +1,5 @@
 # SQL-
-Major Projects in Khan Academy (tables are in Khan Academy, but wntire code was written by me)
+Major Projects in Khan Academy (tables are in Khan Academy, but entire code was written by me)
 
 
 Design a store database: should have a table for all items sold, at least 5 columns, and sell at least 15 items, show price and stats about items.
