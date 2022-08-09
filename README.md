@@ -185,7 +185,9 @@ SELECT id, fullname, best_movie FROM movie_stars ORDER BY fullname;
 
 SELECT fullname, movie_stars.age FROM movie_stars
 JOIN Spouses_info
-ON 
+ON spouses_info.id = movie_stars.id
+WHERE spouses_job = "actor";
+
 
 
 
